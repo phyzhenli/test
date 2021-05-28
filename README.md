@@ -9,7 +9,7 @@
 
 ## Optimization Procedure of the 8×8 Unsigned Approximate Multiplier
 
-![](./fig.pdf)
+![](./fig.png)
 
 ## How to compile them?
 
